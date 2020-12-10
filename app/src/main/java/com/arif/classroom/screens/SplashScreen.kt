@@ -20,7 +20,9 @@ import androidx.lifecycle.Observer
 import com.arif.classroom.R
 import com.arif.classroom.databinding.FragmentSplashScreenBinding
 import com.arif.core.base.BaseFragment
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class SplashScreen : BaseFragment<FragmentSplashScreenBinding,SplashScreenVM>(R.layout.fragment_splash_screen) {
     override val viewModel: SplashScreenVM  by viewModels()
 
