@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /*
+  ~  * Created by Ariful Jannat Arif on 12/10/20 7:15 PM
+  ~  * cse.ariful@gmail.com
+  ~  * Bismillahir Rahmanir Rahim
+  ~  * Last modified 12/10/20 7:15 PM
+  ~  */
+  -->
+
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/nav_graph.xml">
+
+</navigation>

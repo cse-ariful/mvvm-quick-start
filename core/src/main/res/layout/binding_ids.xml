@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /*
+  ~  * Created by Ariful Jannat Arif on 12/10/20 6:31 PM
+  ~  * cse.ariful@gmail.com
+  ~  * Bismillahir Rahmanir Rahim
+  ~  * Last modified 12/10/20 6:31 PM
+  ~  */
+  -->
+
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+        <variable
+            name="viewModel"
+            type="String" />
+        <variable
+            name="item"
+            type="String" />
+        <variable
+            name="position"
+            type="Integer" />
+        <variable
+            name="listener"
+            type="com.arif.core.Item" />
+    </data>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </LinearLayout>
+</layout>
